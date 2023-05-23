@@ -10,7 +10,7 @@ Brain tumours pose a serious global health challenge, with the World Health Orga
 
 We first fine-tuned the pre-trained VGG16 model, which is then used to extract essential features of brain tumour images. Then we feed the features into a logistic regression to model to further perform brain tumour image classification tasks.
 
-![Three types of brain tumor](Images/Figure 1.png)
+![Three types of brain tumor](https://github.com/Cassie818/brain-tumor-classification/blob/main/Images/Figure%201.png)
 
 ## 2. Install packages
 
